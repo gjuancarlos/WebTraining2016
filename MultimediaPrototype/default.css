@@ -1,0 +1,14 @@
+﻿body {
+    background-color: lightyellow;
+}
+
+#container {
+    background-color: lightblue;
+    border: groove;
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px;
+}
