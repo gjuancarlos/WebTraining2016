@@ -1,0 +1,11 @@
+﻿body {
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+#mySVG {
+    height: auto%;
+    width: 100%;
+}

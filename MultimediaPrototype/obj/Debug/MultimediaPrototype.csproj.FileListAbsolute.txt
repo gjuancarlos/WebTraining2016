@@ -31,3 +31,5 @@ c:\users\juang\documents\visual studio 2015\Projects\MultimediaPrototype\Multime
 c:\users\juang\documents\visual studio 2015\Projects\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.csprojResolveAssemblyReference.cache
 c:\users\juang\documents\visual studio 2015\Projects\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.dll
 c:\users\juang\documents\visual studio 2015\Projects\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.pdb
+C:\Git\Repos\WebTraining2016\MultimediaPrototype\obj\Debug\MultimediaPrototype.dll
+C:\Git\Repos\WebTraining2016\MultimediaPrototype\obj\Debug\MultimediaPrototype.pdb
